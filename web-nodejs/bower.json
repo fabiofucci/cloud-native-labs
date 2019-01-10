@@ -12,8 +12,7 @@
         "isotope": "2.2.2",
         "imagesloaded": "4.1.1",
         "angular-route": "1.5.11",
-        "keycloak": "1.9.8",
-        "matchHeight": "0.7.0"
+        "keycloak": "1.9.8"
     },
     "resolutions": {
         "angular": "1.5.11",
